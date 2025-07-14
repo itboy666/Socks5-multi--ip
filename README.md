@@ -14,7 +14,7 @@ Debian7+ Ubuntu14.04+ CentOS6+
 下载脚本
 
 ```bash
-wget --no-check-certificate https://github.com/jimmy-2022/Socks5-multi--ip/blob/main/install.sh
+wget --no-check-certificate https://github.com/itboy666/Socks5-multi--ip/blob/main/install.sh
 ```
 
 ## 安装脚本
